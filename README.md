@@ -30,7 +30,8 @@ sqr_root()
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![Alt text](<Screenshot 2023-11-29 141704.png>)
+
 ![Alt text](<Screenshot 2023-11-29 141037.png>)
 
 ## Result:
